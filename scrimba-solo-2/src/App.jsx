@@ -34,7 +34,10 @@ function App() {
   return (
     <>
     <Navbar />
-    <section>{places}</section>
+    <section>
+      {places}
+    <hr />
+    </section>
     
      
     </>
